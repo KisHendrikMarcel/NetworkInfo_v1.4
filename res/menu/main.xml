@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.KIS.networkinfo.MainActivity" >
+    
+    <item android:id="@+id/refresh_home" android:visible="true" android:title="Refresh/Home" android:enabled="true"></item>
+    <item android:id="@+id/history" android:visible="true" android:title="History" android:enabled="true"></item>
+    <item android:id="@+id/info" android:visible="true" android:title="Legal Information" android:enabled="true"></item>
+    <item android:id="@+id/close" android:visible="true" android:title="Exit" android:enabled="true"></item>
+
+</menu>

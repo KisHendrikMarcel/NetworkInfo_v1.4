@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Network Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cell_ID">Cell ID:</string>
+    <string name="LAC">LAC (Location Area Code):</string>
+    <string name="MCC">MCC (Mobile Country Code):</string>
+    <string name="MNC">MNC (Mobile Network Code):</string>
+    <string name="Country_Name">Country:</string>
+    <string name="operator">Network Operator:</string>
+    <string name="n_Information">Network Information:</string>
+    <string name="network_Information">Network Information:</string>
+    <string name="roaming">Roaming:</string>
+    <string name="network_type">Network-Type:</string>
+    <string name="device_Information">Device Information:</string>
+    <string name="imsi">IMSI:</string>
+    <string name="imei">IMEI:</string>
+    <string name="IP">IP-Adress:</string>
+    <string name="brand">Device Brand:</string>
+    <string name="model">Device Model:</string>
+    <string name="Lac">LAC (Location Area Code):</string>
+    <string name="iccid">ICCID (SIM Serial):</string>
+    <string name="AppName">Network Info</string>
+    <string name="eplus">E-Plus Mobilfunk GmbH</string>
+    <string name="version">v1.4</string>
+    <string name="KIS">"KIS-Projekt interdisziplinär "</string>
+    <string name="autoren">Marcel Lyra &amp; Hendrik Wagenplatz</string>
+    <string name="send1">Send all Data</string>
+    <string name="signal_strength">Show Signal Strength</string>
+    <string name="strength_dB">Signal Strength:</string>
+    <string name="strength_asu">Signal Strength (Asu):</string>
+    <string name="android">Android Version:</string>
+    <string name="signalStrengthLevel">Signal Strength (Level)</string>
+    <string name="legal">Legal Information:</string>
+    <string name="title">Title:</string>
+    <string name="project">Project:</string>
+    <string name="company">Company:</string>
+    <string name="adress1">E-Plus Str. 1</string>
+    <string name="adress2">DE 40472 Düsseldorf</string>
+    <string name="owner">Owner:</string>
+    <string name="versionv">Version:</string>
+    <string name="copyright">© all rights reserved</string>
+    <string name="email1">Marcel.Lyra@eplus-gruppe.de</string>
+    <string name="email2">Hendrik.Wagenplatz@eplus-gruppe.de</string>
+    <string name="contact">Contact:</string>
+    <string name="mail">E-Mail:</string>
+    <string name="width">Display Width:</string>
+    <string name="height">Display Height:</string>
+    <string name="send2">Send only Network Info</string>
+    <string name="send3">Send only Device Info</string>
+    <string name="send_button">Send Data</string>
+    <string name="headline_history">Cell History</string>
+    <string name="choose">Please choose:</string>
+    <string name="network_device_info">Network/Device Information</string>
+    <string name="history">Cell History</string>
+    <string name="legal_info">Legal Information</string>
+    <string name="exit">Exit</string>
+
+</resources>
